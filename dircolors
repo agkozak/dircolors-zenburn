@@ -232,6 +232,7 @@ STICKY_OTHER_WRITABLE 48;5;180;38;5;234
 
 # Files of special interest
 .bash_profile 04;38;5;180
+.bash_logout 04;38;5;180
 .conf 04;38;5;180
 .login_conf 04;38;5;180
 .profile 04;38;5;180
