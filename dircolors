@@ -145,6 +145,7 @@ STICKY_OTHER_WRITABLE 48;5;180;38;5;234
 
 # audio formats
 .aac 00;38;5;116
+.aiff 00;38;5;116
 .au 00;38;5;116
 .flac 00;38;5;116
 .mid 00;38;5;116
